@@ -1,47 +1,58 @@
+<div align="center">
+
 # Gabriel Poças
 
-**Data Analyst · Industrial Systems · Automation**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&center=true&vCenter=true&width=720&lines=Data+Analyst+%7C+Industrial+Systems+%7C+Automation;PHP+%E2%80%A2+SQL+%E2%80%A2+Linux+%E2%80%A2+JavaScript;Turning+manual+work+into+tools+that+actually+help" alt="Typing SVG" />
 
-I build data-driven tools that turn operational data into practical systems for planning, monitoring, and decision-making.
+[![Website](https://img.shields.io/badge/uplar.cloud-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://uplar.cloud)
+![Location](https://img.shields.io/badge/Manaus%2C%20AM-111111?style=flat-square&logo=googlemaps&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-111111?style=flat-square&logo=github&logoColor=white)
 
-My work sits at the intersection of **data analysis, process automation, backend development, and industrial operations** — with a focus on keeping systems simple, traceable, and useful in real workflows.
+</div>
 
-## Current focus
+I work with **data, industrial systems and automation**. Most of what I build starts with the same question: *why are we still doing this manually?*
 
-- Capacity planning and scenario simulation
-- Internal web systems and operational dashboards
-- Process automation and workflow improvement
-- Backend development with PHP and SQL
-- Secure application patterns and API design
+Today I'm a **Data Analyst**, working close to industrial operations while building internal tools, dashboards, automations and web systems. Outside work, I keep experimenting with PHP, infrastructure, security and small products of my own.
 
-## Tech stack
+### what I use
 
 `PHP` · `SQL / MySQL` · `JavaScript` · `HTML / CSS` · `Linux` · `Git / GitHub` · `PowerShell` · `Batch`
 
-## Selected work
+### stuff I'm building
 
-### [php-security-kit](https://github.com/ymuft/php-security-kit)
-Lightweight security middleware for PHP applications, covering sessions, CSRF protection, rate limiting, access control, security headers, and session timeout handling.
+**[php-security-kit](https://github.com/ymuft/php-security-kit)**  
+A small PHP security layer for sessions, CSRF, rate limiting, access control and security headers.
 
-### [erp](https://github.com/ymuft/erp)
-Modular CRM/ERP foundation built with PHP and MySQL, with authentication, routing, CSRF protection, prepared statements, and a structure designed for incremental expansion.
+**[erp](https://github.com/ymuft/erp)**  
+A modular CRM/ERP base in PHP + MySQL, built as a practical foundation instead of a framework exercise.
 
-### [clinera](https://github.com/ymuft/clinera)
-Windows automation utilities built with Batch and PowerShell for repeatable maintenance and operational tasks.
+**[clinera](https://github.com/ymuft/clinera)**  
+Windows automation scripts for repetitive maintenance and operational tasks.
 
-## Open-source contributions
+### open source
 
-Recent contributions outside my own repositories:
+I started contributing outside my own repositories too:
 
-- [RunnerDeck — show remaining time on login lockout](https://github.com/AnikethTS/RunnerDeck/pull/71)
+- [RunnerDeck — login lockout remaining time](https://github.com/AnikethTS/RunnerDeck/pull/71)
 - [Moodle AI Skill Navigator — Windows PowerShell quick start](https://github.com/Berserk-hub150/moodle-ai-skill-navigator/pull/229)
 - [Moodle AI Skill Navigator — course materials troubleshooting](https://github.com/Berserk-hub150/moodle-ai-skill-navigator/pull/230)
 
-## How I work
+### a little more
 
-I prefer focused changes, clear technical reasoning, and systems that are easy to understand after the first implementation. I am especially interested in projects where software can remove manual work, improve visibility, or make operational decisions more reliable.
+```text
+$ whoami
+Gabriel Poças
 
-## Links
+$ focus
+Data + automation + systems that remove friction
 
-- GitHub: [@ymuft](https://github.com/ymuft)
-- Website: [uplar.cloud](https://uplar.cloud)
+$ current_goal
+Build useful things, understand how they work, and keep improving them
+```
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ymuft&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymuft&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+
+</div>
