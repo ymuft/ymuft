@@ -2,8 +2,6 @@
 
 # Gabriel Poças
 
-<img src="https://github.com/ymuft.png" alt="Gabriel Poças" width="120" />
-
 <br />
 
 **Analista de Dados · Desenvolvimento de Software · Open Source**
